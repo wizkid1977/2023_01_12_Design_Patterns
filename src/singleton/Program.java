@@ -12,7 +12,6 @@ public class Program {
 
         System.out.println(CEO.getInstance());
 
-        System.out.println("Hello world!");
 
     }
 }
